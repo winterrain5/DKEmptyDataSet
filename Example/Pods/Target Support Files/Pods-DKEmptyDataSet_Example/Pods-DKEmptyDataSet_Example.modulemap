@@ -1,0 +1,6 @@
+framework module Pods_DKEmptyDataSet_Example {
+  umbrella header "Pods-DKEmptyDataSet_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
