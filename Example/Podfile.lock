@@ -1,0 +1,16 @@
+PODS:
+  - DKEmptyDataSet (0.1.0)
+
+DEPENDENCIES:
+  - DKEmptyDataSet (from `../`)
+
+EXTERNAL SOURCES:
+  DKEmptyDataSet:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DKEmptyDataSet: 3cca8b2435bec8a8265d238012f0f99ab112c91f
+
+PODFILE CHECKSUM: 44a37a6e0eb9fa510b6682c643832fb8360f8d11
+
+COCOAPODS: 1.10.0.rc.1
